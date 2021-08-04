@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img alt="Phil's Public GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=philarmour&show_icons=true&hide_border=true" />
+  <img alt="Phil's Public GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=philarmour&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
 ![visiters](https://visitor-badge.glitch.me/badge?page_id=philarmour.philarmour)
